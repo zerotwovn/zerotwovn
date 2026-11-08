@@ -2,9 +2,9 @@
 
 # Khoi Phan Tan Anh
 
-**Embedded systems · IoT · Cybersecurity**
+**Cybersecurity · CTF · Linux**
 
-I build connected devices with ESP32 and LoRa, and the web tools that make their data useful.
+I'm focused on cybersecurity — solving CTF challenges, building CTF-style puzzles, and documenting what I learn.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zerotwovn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zerotwovn)
 
@@ -14,12 +14,16 @@ I build connected devices with ESP32 and LoRa, and the web tools that make their
 
 ## Tech stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-434%20MHz-1B9E77?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Tools & platforms**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -27,16 +31,14 @@ I build connected devices with ESP32 and LoRa, and the web tools that make their
 
 | Project | Description |
 | :--- | :--- |
-| **[LoRa-Weather-Station](https://github.com/zerotwovn/LoRa-Weather-Station)** | ESP32-S3 + Ra-02 (SX1278) weather network with autonomous sensor nodes, a gateway with SD/cloud logging, and a live web dashboard. |
-| **[RBL](https://github.com/zerotwovn/RBL)** | An empirically driven, deeply embedded IoT simulator. |
-| **[FIA — First Contact](https://zerotwovn.github.io)** | A CTF-style puzzle site built for the FPT Information Assurance Club. |
-| **[summit-game](https://github.com/zerotwovn/summit-game)** | A small browser game. |
+| **[FIA — First Contact](https://zerotwovn.github.io)** | A CTF-style puzzle site built for the FPT Information Assurance Club — hidden routes, robots.txt hints, and a transmission to find. |
+| **[CTF-writeups](https://github.com/zerotwovn/CTF-writeups)** | Notes and writeups from CTF challenges as I work through them. |
 
 ## Currently
 
-- Growing the **LoRa weather station** — firmware, gateway, and dashboard
-- Writing up CTF challenges in **[CTF-writeups](https://github.com/zerotwovn/CTF-writeups)**
+- Solving CTF challenges and publishing writeups
+- Building security-focused puzzles and challenges
 
 ---
 
-<sub>Open to collaborating on embedded, IoT, or security projects — feel free to reach out on GitHub.</sub>
+<sub>Open to CTF teams, security projects, and collaboration — feel free to reach out on GitHub.</sub>
