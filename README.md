@@ -2,9 +2,9 @@
 
 # Khoi Phan Tan Anh
 
-**Cybersecurity · CTF · Linux**
+**Cybersecurity**
 
-I'm focused on cybersecurity — solving CTF challenges, building CTF-style puzzles, and documenting what I learn.
+I'm focused on cybersecurity.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zerotwovn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zerotwovn)
 
@@ -27,12 +27,7 @@ I'm focused on cybersecurity — solving CTF challenges, building CTF-style puzz
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured projects
 
-| Project | Description |
-| :--- | :--- |
-| **[FIA — First Contact](https://zerotwovn.github.io)** | A CTF-style puzzle site built for the FPT Information Assurance Club — hidden routes, robots.txt hints, and a transmission to find. |
-| **[CTF-writeups](https://github.com/zerotwovn/CTF-writeups)** | Notes and writeups from CTF challenges as I work through them. |
 
 ## Currently
 
